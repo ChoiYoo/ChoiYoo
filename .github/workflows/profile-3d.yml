@@ -17,7 +17,7 @@ jobs:
           USERNAME: ChoiYoo
       - name: Commit & Push
         run: |
-          git config ChoiYoo github-actions
+          git config yoojung.choi github-actions
           git config green980611@naver.com github-actions@github.com
           git add -A .
           git commit -m "generated"
