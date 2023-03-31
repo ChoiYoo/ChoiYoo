@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+I'm+ChoiYoo&font=Alkatra&size=40)](https://git.io/typing-svg)
 
 <div>
-<a href="https://www.instagram.com/yss_lxve/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=000000"/></a></div>
+<a href="https://www.instagram.com/yss_lxve/" target="_blank"><img src="https://img.shields.io/badge/yss_lxve-E4405F?style=for-the-badge&logo=instagram&logoColor=000000"/></a></div>
 
 <br>
 
@@ -47,9 +47,18 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <br>
+  
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **ChoiYoo/ChoiYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
