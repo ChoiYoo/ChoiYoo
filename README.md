@@ -1,10 +1,25 @@
-### Welcome 💜
-<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+I'm+ChoiYoo&font=Alkatra&size=40)](https://git.io/typing-svg)
+
+<div>
 <a href="https://www.instagram.com/yss_lxve/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=000000"/></a></div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<br>
 
-<div align=center> 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoiYoo&theme=midnight-purple&show_icons=true" width="48%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoiYoo&theme=midnight-purple" width="50.8%" />
+</a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChoiYoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<div><h1>📚 STACKS</h1></div>
+
+<div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -34,7 +49,7 @@
   <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiYoo&show_icons=true&theme=midnight-purple)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **ChoiYoo/ChoiYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
