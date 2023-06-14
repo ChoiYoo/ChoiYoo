@@ -10,10 +10,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChoiYoo&theme=tokyonight)
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoiYoo&theme=midnight-purple&show_icons=true" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoiYoo&theme=midnight-purple&show_icons=true" width="40%" />
 </a>
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoiYoo&theme=midnight-purple" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoiYoo&theme=midnight-purple" width="42%" />
 </a>
 
 
