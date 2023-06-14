@@ -7,14 +7,14 @@
 
 <br>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoiYoo&theme=midnight-purple&show_icons=true" width="48%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoiYoo&theme=midnight-purple" width="50.8%" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChoiYoo&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChoiYoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoiYoo&theme=midnight-purple&show_icons=true" width="36%" />
+</a>
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoiYoo&theme=midnight-purple" width="38%" />
+</a>
 
 
 
