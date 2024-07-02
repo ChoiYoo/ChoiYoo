@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7878FF&lines=Welcome&font=Alkatra&size=30)](https://git.io/typing-svg)
 
-<div>
-<a href="https://www.instagram.com/yss_lxve/" target="_blank"><img src="https://img.shields.io/badge/yss_lxve-E4405F?style=for-the-badge&logo=instagram&logoColor=000000"/></a></div>
-
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChoiYoo&theme=tokyonight)
